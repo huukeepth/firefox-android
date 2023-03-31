@@ -26,7 +26,7 @@ object FocusVersions {
         const val savedstate = "1.2.0"
         const val splashscreen = "1.0.0"
         const val transition = "1.4.1"
-        const val work = "2.7.1"
+        const val work = "2.8.1"
     }
 
     object Google {
