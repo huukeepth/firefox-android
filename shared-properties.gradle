@@ -1,0 +1,4 @@
+# Shared Gradle settings for all projects.
+
+android.useAndroidX=true
+android.enableJetifier=false
